@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823326617277",
+    "project_id": "affable-berm-381617",
+    "storage_bucket": "affable-berm-381617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823326617277:android:dfc6d2f347af23277e91d4",
+        "android_client_info": {
+          "package_name": "com.example.chat_gpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBidGBqbujGQenB4NZv8RnsFNm10uYqgbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
